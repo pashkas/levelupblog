@@ -1,6 +1,6 @@
 **Привет, Странник!**
 
-[![](cdn.jsdelivr.net/gh/pashkas/levelupblog/2013-08-01-О Блоге/Старлорд.jpg)](https://nerdistway.blogspot.com/2013/08/blog-post_13.html)
+[![](https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2013-08-01-О Блоге/Старлорд.jpg)](https://nerdistway.blogspot.com/2013/08/blog-post_13.html)
 
 Меня зовут Звездный Лорд, и это -- мой блог “Путь ботана”.
 
@@ -12,8 +12,8 @@
 
 Этот блог для тебя, друг!
 
-http://eepurl.com/ciG_oL[Присоединяйся], вместе у нас все получится!
+[Присоединяйся](http://eepurl.com/ciG_oL), вместе у нас все получится!
+
+__“Считается, что пользователь живет вне своего компьютера, а [игры запускаются только ради удовольствия](http://nerdistway.blogspot.ru/2013/08/blog-post_5490.html). Так это или нет, мне предстоит выяснить. [Загрузка!](https://nerdistway.blogspot.ru/2013/07/mylife-rpg-organizer.html)”__
 
 ![](https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2013-08-01-О Блоге/Reboot.png)
-
-__“Считается, что пользователь живет вне своего компьютера, а http://nerdistway.blogspot.ru/2013/08/blog-post_5490.html[игры запускаются только ради удовольствия]. Так это или нет, мне предстоит выяснить. https://nerdistway.blogspot.ru/2013/07/mylife-rpg-organizer.html[Загрузка!]”__
