@@ -20,12 +20,3 @@ ifdef::preface-title[:preface-title: Предисловие]
 :warning-caption: Предупреждение
 :figure-caption: Рисунок
 :table-caption: Таблица
-
-:doctype: article
-:leveloffset: 1
-:encoding: utf-8
-:lang: ru
-:icons: font
-:sectnumlevels: 0
-:!figure-caption:
-:!table-caption:
