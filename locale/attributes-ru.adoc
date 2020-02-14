@@ -19,9 +19,8 @@ ifdef::preface-title[:preface-title: Предисловие]
 :untitled-label: Без названия
 :version-label: Версия
 :warning-caption: Предупреждение
-
-//:figure-caption: Рисунок
-//:table-caption: Таблица
+:figure-caption: Рисунок
+:table-caption: Таблица
 
 :doctype: article
 :leveloffset: 1
@@ -29,6 +28,5 @@ ifdef::preface-title[:preface-title: Предисловие]
 :encoding: utf-8
 :lang: ru
 :icons: font
-
 :!figure-caption:
 :!table-caption:
