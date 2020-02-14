@@ -5,7 +5,7 @@
 :chapter-label: Глава
 :chapter-refsig: {chapter-label}
 :example-caption: Пример
-:figure-caption: Рисунок
+:!figure-caption: Рисунок
 :important-caption: Важно
 :last-update-label: Последнее обновление
 ifdef::listing-caption[:listing-caption: Листинг]
@@ -15,9 +15,16 @@ ifdef::manname-title[:manname-title: Название]
 :part-refsig: {part-label}
 ifdef::preface-title[:preface-title: Предисловие]
 :section-refsig: Раздел
-:table-caption: Таблица
+:!table-caption: Таблица
 :tip-caption: Подсказка
 :toc-title: Содержание
 :untitled-label: Без названия
 :version-label: Версия
 :warning-caption: Предупреждение
+
+:doctype: article
+:leveloffset: 1
+:sectnumlevels: 0
+:encoding: utf-8
+:lang: ru
+:icons: font
