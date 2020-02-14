@@ -20,8 +20,8 @@ ifdef::preface-title[:preface-title: Предисловие]
 :version-label: Версия
 :warning-caption: Предупреждение
 
-:figure-caption: Рисунок
-:table-caption: Таблица
+//:figure-caption: Рисунок
+//:table-caption: Таблица
 
 :doctype: article
 :leveloffset: 1
