@@ -23,9 +23,9 @@ ifdef::preface-title[:preface-title: Предисловие]
 
 :doctype: article
 :leveloffset: 1
-:sectnumlevels: 0
 :encoding: utf-8
 :lang: ru
 :icons: font
+:sectnumlevels: 0
 :!figure-caption:
 :!table-caption:
