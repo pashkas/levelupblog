@@ -4,8 +4,11 @@ draft = true
 id = 8151930132782814460
 +++
 :imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog/РПГ Органайзер - можно пользоваться!
+include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes-ru.adoc[]
 
-include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes.adoc[]
+.Заголовок
+
+
 
 = бла бла бла
 
