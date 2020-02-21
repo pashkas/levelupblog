@@ -2,7 +2,6 @@
 +++
 title = "РПГ Органайзер - можно пользоваться!" 
 draft = true
-id = 8151930132782814460
 +++
 include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes-ru.adoc[]
 :doctype: article
@@ -35,7 +34,7 @@ _Это ты, верно?_
 
 _Готов к приключениям?_
 
-![](https://www.nerdfitness.com/wp-content/themes/NerdFitness/templates/rising-heroes-sales-page/images/red-blue-pills.jpg)
+image:redBluePill.jpg[]
 
 Прямо сейчас у тебя есть выбор принять: голубую таблетку или красную таблетку.
 
@@ -45,4 +44,4 @@ _Готов к приключениям?_
 Но если ты принимаешь красную таблетку, то объеденишь силы с нами, и мы вместе узнаем, насколько глубоко заходит кроличья нора.
 
 - Да
-- Нет
+- https://vk.com/[Нет]
