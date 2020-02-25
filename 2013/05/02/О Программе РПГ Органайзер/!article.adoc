@@ -43,20 +43,15 @@ image::MainWindow.png[]
 
 Панель задач:
 
-image::ПанельЗадач.jpg[]
+image::ПанельЗадач.png[]
 
 Получение опыта:
 
-image::ПолучениеОпыта.jpg[]
-
-Награды:
-
-image::Награды.jpg[]
+image::ПолучениеОпыта.png[]
 
 Турнирная таблица:
 
-image::ТурнирнаяТаблица.jpg[]
-
+image::ТурнирнаяТаблица.png[]
 
 ++++
 <!-- Begin MailChimp Signup Form -->
