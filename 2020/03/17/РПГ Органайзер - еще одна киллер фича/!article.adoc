@@ -1,9 +1,9 @@
 // #region settings
-// id = XXX
 +++
 title = "РПГ Органайзер - еще одна киллер фича" 
-draft = true
+draft = false
 publishdate = 2020-03-17T12:00:00+03:00
+id = 2227418488144313056
 +++
 include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes-ru.adoc[]
 :doctype: article
@@ -45,6 +45,8 @@ image::ДобавленыХарактеристики.jpg[]
 Теперь щелкни по характристике и тоже нажми "добавить". Добавь таким образом навыки:
 
 image::ДобавлениеНавыка.jpg[]
+
+В итоге получится такая штука:
 
 image::НавыкиДобавлены.jpg[]
 
