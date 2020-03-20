@@ -1,9 +1,9 @@
 // #region settings
-// id = XXX
 +++
 title = "РПГ Органайзер - подробно про навыки" 
-draft = true
-publishdate = 2020-20-17T12:00:00+03:00
+draft = false
+id = 788832190896540721
+publishdate = 2020-03-20T12:00:00+03:00
 +++
 include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes-ru.adoc[]
 :doctype: article
