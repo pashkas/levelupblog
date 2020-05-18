@@ -1,0 +1,35 @@
+// #region settings
++++
+title = "О Блоге" 
+draft = false
+id = 226041504036088044
+publishdate = 2013-05-01T14:00:00
++++
+include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes-ru.adoc[]
+:doctype: article
+:footer: nofooter
+:leveloffset: 1
+:encoding: utf-8
+:lang: ru
+:icons: font
+:sectnumlevels: 0
+:!figure-caption:
+:!table-caption:
+:imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2013 - О Блоге
+// #endregion
+
+image::Старлорд.jpg[]
+
+**Привет, Странник!**
+
+Дорогой [твое имя], если ты такой же раздолбай как я, любишь фантастику, фэнтези и компьютерные игры, но хочешь, чтобы твои увлечения не были просто пустой тратой времени, а вдохновляли на подвиги в реальной жизни…
+
+Если у тебя есть проблемы с весом, физической формой, общением, мотивацией, уверенностью, и ты хочешь занять достойное место в социальной **пищевой** пирамиде…
+
+Этот блог для тебя, друг!
+
+Меня зовут Звездный Лорд, и это -- “Путь ботана”. http://eepurl.com/ciG_oL[Присоединяйся], вместе у нас все получится!
+
+image::Reboot.png[]
+
+_“Считается, что пользователь живет вне своего компьютера, а http://nerdistway.blogspot.ru/2013/08/blog-post_5490.html[игры запускаются только ради удовольствия]. Так это или нет, мне предстоит выяснить. https://nerdistway.blogspot.ru/2013/07/mylife-rpg-organizer.html”[Загрузка!]_
