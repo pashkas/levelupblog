@@ -17,6 +17,7 @@ include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes-ru.ad
 :!table-caption:
 :imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2013 - О Программе РПГ Органайзер/
 // #endregion
+
 image::MainQwest.jpg[]
 
 _Мир изменился…_
