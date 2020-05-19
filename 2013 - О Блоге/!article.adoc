@@ -3,7 +3,7 @@
 title = "О Блоге" 
 draft = false
 id = 226041504036088044
-publishdate = 2013-05-01T14:00:00
+publishdate = 2013-05-01T12:00:00+03:00
 +++
 include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes-ru.adoc[]
 :doctype: article
@@ -15,7 +15,7 @@ include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes-ru.ad
 :sectnumlevels: 0
 :!figure-caption:
 :!table-caption:
-:imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2013 - О Блоге
+:imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2013 - О Блоге/
 // #endregion
 
 image::Старлорд.jpg[]
