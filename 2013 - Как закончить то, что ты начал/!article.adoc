@@ -1,7 +1,7 @@
 // #region settings
 +++
 title = "Как закончить то, что ты начал" 
-draft = true
+draft = false
 id = 5068870499357999291
 publishdate = 2013-12-27T12:00:00+03:00
 +++
@@ -15,7 +15,7 @@ include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes-ru.ad
 :sectnumlevels: 0
 :!figure-caption:
 :!table-caption:
-:imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2013 - Как закончить то, что ты начал/
+:imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2013 - Как закончить то что ты начал/
 // #endregion
 
 image:SecretOfMana.png[]
