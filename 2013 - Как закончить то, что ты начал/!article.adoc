@@ -15,7 +15,6 @@ include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog/locale/attributes-ru.ad
 :sectnumlevels: 0
 :!figure-caption:
 :!table-caption:
-:imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2013 - Как закончить то что ты начал/
 // #endregion
 
 image:SecretOfMana.png[]
@@ -109,4 +108,3 @@ image:команда.png[]]
 _А как тебе удается добиваться своих целей?_
 
 _Есть еще мысли как тратить меньше воли для действий, и как пополнять и развивать свою волю?_
-
