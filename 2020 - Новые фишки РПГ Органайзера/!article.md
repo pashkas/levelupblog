@@ -4,7 +4,7 @@ PostId:
 Published: true
 -->
 
-<img src="https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2020%20-%20Новые%20фишки%20РПГ%20Органайзера/1.jpg" style="zoom: 60%;" />
+<img src="https://cdn.jsdelivr.net/gh/pashkas/levelupblog/2020%20-%20Новые%20фишки%20РПГ%20Органайзера/pioneer.jpg" style="zoom: 60%;" />
 
 *Привет! Со времени последнего сообщения работа не стояла на месте. В РПГ Органайзере появилось много новых фишек о которых ты, скорее всего, еще не знаешь. Что же это?*
 
